@@ -9,10 +9,8 @@ You need to add a bot Discord token in the .env file to run it.
 
 ## Functions:
 ### Commands:
-- !setyoutube - Saves the Youtube username.
-- !setinsta - Saves the Instagram username.
-
-__Added soon__
+You can see the commands in [this](./commands/commands.md) file.
+Set commands will be found in the [Commands](./commands/setcommands.md)
 
 # Known bugs:
 - !verify is currently not working.
