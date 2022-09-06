@@ -9,6 +9,8 @@ You need to add a bot Discord token in the .env file to run it.
 
 ## Functions:
 ### Commands:
+- !setyoutube - Saves the Youtube username
+- !setinsta - Saves the Instagram username
 __Added soon__
 
 # Known bugs:
