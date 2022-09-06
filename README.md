@@ -7,6 +7,9 @@ This bot is currently a single server bot, running it on multiple server isn't t
 To add commands put them in a folder in the command folder like aboutme and welcome.
 You need to add a bot Discord token in the .env file to run it.
 
+Also feel free to ask me via discord or Telegram to add a command you want for your version of the bot.
+If you use the bot, please add in the bots description `BotDev: ShyFox` to show some respect because I offer it for free.
+
 ## Functions:
 ### Commands:
 You can see the commands in [this](./commands/commands.md) file.
