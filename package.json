@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.29",
+    "canvas": "^2.10.0"
+  }
+}

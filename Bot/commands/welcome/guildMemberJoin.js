@@ -1,7 +1,7 @@
 const {MessageEmbed, MessageAttachment } = require('discord.js');
 const { Command, CommandoMessage } = require('discord.js-commando');
 const fs = require('fs');
-const {createCanvas, loadImage, Canvas} = require('@napi-rs/canvas');
+const {createCanvas, loadImage, Canvas} = require('canvas');
 const { request } = require('undici');
 const fetch = require("node-fetch");
 
